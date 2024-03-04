@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Hepco Website",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://web-hepco-7ttu.vercel.app/"
+    }
+  },
+  {
+    "name": "Pacific Pressure Systems and Components",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "https://pacificpsc.com/#/"
+    }
+  },
+  {
+    "name": "Mekong Marine Supply",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://mmsvn.com/"
+    }
+  }
+]
